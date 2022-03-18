@@ -11,7 +11,7 @@ function clock(){
     var c=time.getSeconds();
 
     var d;
-    if(hours <= 12) {
+    if(a <= 12) {
         d="AM";
     } else{
         d="PM";
